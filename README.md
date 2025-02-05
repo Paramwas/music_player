@@ -71,7 +71,7 @@ The backend is built using **Flask**, a lightweight WSGI web application framewo
 
 3. Run the Flask app:
    ```bash
-   python app.py
+   python bac.py
    ```
 
 The backend will start running, and it will be ready to handle requests from the Flutter frontend.
